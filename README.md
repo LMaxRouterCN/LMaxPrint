@@ -1,7 +1,7 @@
 
 # LMaxPrint
 
-一款基于 .NET 8 和 WinForms 构建的桌面应用程序，专为解决老旧 GDI 打印机（如 HP LaserJet P1108）驱动兼容性问题而生。摒弃了传统软件依赖系统隐式 DPI 缩放的弊端，提供 CAD 级的双坐标系视图架构，实现真正的 100% 所见即所得（WYSIWYG）物理打印。
+一款基于 .NET 8 和 WinForms 构建的桌面应用程序
 
 ## 速览
 
@@ -9,10 +9,9 @@
 
 <summary>点击展开图集</summary>
 
-README/屏幕截图 2026-06-07 140517.png
-README/屏幕截图 2026-06-07 140605.png
-README/屏幕截图 2026-06-07 140726.png
-
+![alt text](<README/屏幕截图 2026-06-07 140517.png>)
+![alt text](<README/屏幕截图 2026-06-07 140605.png>)
+![alt text](<README/屏幕截图 2026-06-07 140726.png>)
 </details>
 
 ## 🌟 核心特性
