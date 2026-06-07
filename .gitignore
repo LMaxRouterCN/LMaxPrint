@@ -1,54 +1,50 @@
+## ==============================================
+## LMaxPrint 项目专属 .gitignore
+## ==============================================
+
+# 1. 运行时生成的本地配置和调试文件 (最重要！)
+# 我们代码里会自动生成主题配置和打印调试图，绝对不能提交到 Git
+theme.json
 debug_print.png
-bin/Release/
 
-# Prerequisites
-*.d
+# 2. .NET 编译输出目录 (核心)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+publish/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# 3. Visual Studio / Rider 等 IDE 的缓存和用户配置
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.DotSettings.user
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# 4. NuGet 包相关
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nupkg
+*.snupkg
+**/[Pp]ackages/repositories.config
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-# Precompiled Headers
-*.gch
-*.pch
+# 5. Windows 系统生成的烦人隐藏文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# 6. macOS 系统生成的隐藏文件
+.DS_Store
