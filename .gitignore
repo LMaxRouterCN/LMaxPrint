@@ -33,7 +33,6 @@ debug_print.png
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
