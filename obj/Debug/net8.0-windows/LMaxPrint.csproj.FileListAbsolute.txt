@@ -1,0 +1,14 @@
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.AssemblyInfoInputs.cache
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.AssemblyInfo.cs
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.csproj.CoreCompileInputs.cache
+D:\Documents\my\LMaxPrint\bin\Debug\net8.0-windows\LMaxPrint.exe
+D:\Documents\my\LMaxPrint\bin\Debug\net8.0-windows\LMaxPrint.deps.json
+D:\Documents\my\LMaxPrint\bin\Debug\net8.0-windows\LMaxPrint.runtimeconfig.json
+D:\Documents\my\LMaxPrint\bin\Debug\net8.0-windows\LMaxPrint.dll
+D:\Documents\my\LMaxPrint\bin\Debug\net8.0-windows\LMaxPrint.pdb
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.dll
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\refint\LMaxPrint.dll
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.pdb
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\LMaxPrint.genruntimeconfig.cache
+D:\Documents\my\LMaxPrint\obj\Debug\net8.0-windows\ref\LMaxPrint.dll
